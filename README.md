@@ -4,5 +4,5 @@ Projeta o compensado em atraso para uma dada função G(s) desde que seja dada a
 Created by Wyctor Fogos e Maylon Folli - IFES - Campus Vitória - ES - Brasil. 
 
 *Obs.: Instale o python no computador, assim como as bibliotecas scipy, matplotlib e numpy.
-Exemplo de instalação pello terminal Windows 10 e Ubuntu 18.04:
+Exemplo de instalação pelo terminal Windows 10 e Ubuntu 18.04:
 -- pip install scipy numpy matplotlib
