@@ -14,3 +14,4 @@ Link para download do Visual Studio: https://visualstudio.microsoft.com/pt-br/vs
 **Obs. 2: O arquivo executável se encontra dentro da pasta "...PROJETO_COMPENSADOR_CSHARP_E_MATLAB\bin\Debug\PROJETO_COMPENSADOR_CSHARP_E_MATLAB.exe" para a arqitetura AnyCPU.
 **Obs.3: O arquivo executável se encontra dentro da pasta "...PROJETO_COMPENSADOR_CSHARP_E_MATLAB\bin\x64\Debug\PROJETO_COMPENSADOR_CSHARP_E_MATLAB.exe" para a arqitetura X64.
 **Obs.4: O arquivo executável se encontra dentro da pasta "...PROJETO_COMPENSADOR_CSHARP_E_MATLAB\bin\x86\Debug\PROJETO_COMPENSADOR_CSHARP_E_MATLAB.exe" para a arqitetura X86.
+**Obs.5: Também há um arquivo executável nas pastas Release.
