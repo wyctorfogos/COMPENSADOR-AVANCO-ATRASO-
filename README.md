@@ -6,5 +6,5 @@ Arquitetura: x64 e X86.
 
 Created by Wyctor Fogos e Maylon Folli - IFES - Campus Vitória - ES - Brasil. 
 Powered by Microsoft Visual Studio 2017.
-*Obs.: Instale o Microsoft Visual Studio no computador, assim como a biblioteca MLApp, a qual é responsável pelo comunicação entre o C# e o MATLAB.
+*Obs.: Instale o Microsoft Visual Studio no computador.
 
