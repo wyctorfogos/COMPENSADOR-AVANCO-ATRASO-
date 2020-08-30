@@ -9,4 +9,5 @@ Arquitetura: x64 e X86.
 Created by Wyctor Fogos e Maylon Folli - IFES - Campus Vitória - ES - Brasil. 
 Powered by Microsoft Visual Studio 2017.
 *Obs.: Instale o Microsoft Visual Studio no computador.
+*Obs.: O arquivo executável se encontra dentro da pasta "...\bin\Debug\PROJETO_COMPENSADOR_CSHARP_E_MATLAB.exe".
 
