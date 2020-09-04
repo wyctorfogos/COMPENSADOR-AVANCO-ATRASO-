@@ -14,3 +14,6 @@ Link para download do Visual Studio: https://visualstudio.microsoft.com/pt-br/vs
 *** Instale o Microsoft Visual Studio no computador caso não consiga abrir com a instrução acima;
 *** Logo após a instalação, clique no bortão 'Run' para executar o programa;
 *** Será aberta uma janela de load e logo em seguida a tela principal.
+
+- Para envio de e-mail:
+-- É preciso que o usuário autorize o uso do seu e-mail e senha. No caso do Gmail, por exemplo, é preciso dar permissão em https://myaccount.google.com/lesssecureapps;
